@@ -1,0 +1,339 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		72FCCFDF1C626A3A00771D4C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FCCFDE1C626A3A00771D4C /* AppDelegate.swift */; };
+		72FCCFE11C626A3A00771D4C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FCCFE01C626A3A00771D4C /* ViewController.swift */; };
+		72FCCFE41C626A3A00771D4C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72FCCFE21C626A3A00771D4C /* Main.storyboard */; };
+		72FCCFE71C626A3A00771D4C /* Anohana_.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 72FCCFE51C626A3A00771D4C /* Anohana_.xcdatamodeld */; };
+		72FCCFE91C626A3A00771D4C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72FCCFE81C626A3A00771D4C /* Assets.xcassets */; };
+		72FCCFEC1C626A3A00771D4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72FCCFEA1C626A3A00771D4C /* LaunchScreen.storyboard */; };
+		72FCCFF41C626D8800771D4C /* 1454519642531.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72FCCFF31C626D8800771D4C /* 1454519642531.jpg */; };
+		72FCCFF61C626EAF00771D4C /* 8424.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72FCCFF51C626EAF00771D4C /* 8424.jpg */; };
+		72FCCFFC1C626EEC00771D4C /* f74562b0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72FCCFFB1C626EEC00771D4C /* f74562b0.jpg */; };
+		72FCCFFE1C626FDC00771D4C /* 7584408.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72FCCFFD1C626FDC00771D4C /* 7584408.jpg */; };
+		72FCD0001C6277A300771D4C /* 51hW5VXxDGL._SX500_CR0,0,500,390_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72FCCFFF1C6277A300771D4C /* 51hW5VXxDGL._SX500_CR0,0,500,390_.jpg */; };
+		72FCD0021C62786400771D4C /* images-3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72FCD0011C62786400771D4C /* images-3.jpg */; };
+		72FCD0041C62B80B00771D4C /* SubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FCD0031C62B80B00771D4C /* SubViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		72FCCFDB1C626A3A00771D4C /* Anohana!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Anohana!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		72FCCFDE1C626A3A00771D4C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		72FCCFE01C626A3A00771D4C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		72FCCFE31C626A3A00771D4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		72FCCFE61C626A3A00771D4C /* Anohana_.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Anohana_.xcdatamodel; sourceTree = "<group>"; };
+		72FCCFE81C626A3A00771D4C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		72FCCFEB1C626A3A00771D4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		72FCCFED1C626A3A00771D4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		72FCCFF31C626D8800771D4C /* 1454519642531.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1454519642531.jpg; path = ../../../Downloads/1454519642531.jpg; sourceTree = "<group>"; };
+		72FCCFF51C626EAF00771D4C /* 8424.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 8424.jpg; path = ../../../Downloads/8424.jpg; sourceTree = "<group>"; };
+		72FCCFFB1C626EEC00771D4C /* f74562b0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = f74562b0.jpg; path = ../../../Downloads/f74562b0.jpg; sourceTree = "<group>"; };
+		72FCCFFD1C626FDC00771D4C /* 7584408.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 7584408.jpg; path = ../../../Downloads/7584408.jpg; sourceTree = "<group>"; };
+		72FCCFFF1C6277A300771D4C /* 51hW5VXxDGL._SX500_CR0,0,500,390_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "51hW5VXxDGL._SX500_CR0,0,500,390_.jpg"; path = "../../../Downloads/51hW5VXxDGL._SX500_CR0,0,500,390_.jpg"; sourceTree = "<group>"; };
+		72FCD0011C62786400771D4C /* images-3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "images-3.jpg"; path = "../../../Downloads/images-3.jpg"; sourceTree = "<group>"; };
+		72FCD0031C62B80B00771D4C /* SubViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		72FCCFD81C626A3A00771D4C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		72FCCFD21C626A3A00771D4C = {
+			isa = PBXGroup;
+			children = (
+				72FCCFDD1C626A3A00771D4C /* Anohana! */,
+				72FCCFDC1C626A3A00771D4C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		72FCCFDC1C626A3A00771D4C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				72FCCFDB1C626A3A00771D4C /* Anohana!.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		72FCCFDD1C626A3A00771D4C /* Anohana! */ = {
+			isa = PBXGroup;
+			children = (
+				72FCD0011C62786400771D4C /* images-3.jpg */,
+				72FCD0031C62B80B00771D4C /* SubViewController.swift */,
+				72FCCFFF1C6277A300771D4C /* 51hW5VXxDGL._SX500_CR0,0,500,390_.jpg */,
+				72FCCFFD1C626FDC00771D4C /* 7584408.jpg */,
+				72FCCFFB1C626EEC00771D4C /* f74562b0.jpg */,
+				72FCCFF51C626EAF00771D4C /* 8424.jpg */,
+				72FCCFF31C626D8800771D4C /* 1454519642531.jpg */,
+				72FCCFDE1C626A3A00771D4C /* AppDelegate.swift */,
+				72FCCFE01C626A3A00771D4C /* ViewController.swift */,
+				72FCCFE21C626A3A00771D4C /* Main.storyboard */,
+				72FCCFE81C626A3A00771D4C /* Assets.xcassets */,
+				72FCCFEA1C626A3A00771D4C /* LaunchScreen.storyboard */,
+				72FCCFED1C626A3A00771D4C /* Info.plist */,
+				72FCCFE51C626A3A00771D4C /* Anohana_.xcdatamodeld */,
+			);
+			path = "Anohana!";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		72FCCFDA1C626A3A00771D4C /* Anohana! */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 72FCCFF01C626A3A00771D4C /* Build configuration list for PBXNativeTarget "Anohana!" */;
+			buildPhases = (
+				72FCCFD71C626A3A00771D4C /* Sources */,
+				72FCCFD81C626A3A00771D4C /* Frameworks */,
+				72FCCFD91C626A3A00771D4C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Anohana!";
+			productName = "Anohana!";
+			productReference = 72FCCFDB1C626A3A00771D4C /* Anohana!.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		72FCCFD31C626A3A00771D4C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = iso;
+				TargetAttributes = {
+					72FCCFDA1C626A3A00771D4C = {
+						CreatedOnToolsVersion = 7.2;
+					};
+				};
+			};
+			buildConfigurationList = 72FCCFD61C626A3A00771D4C /* Build configuration list for PBXProject "Anohana!" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 72FCCFD21C626A3A00771D4C;
+			productRefGroup = 72FCCFDC1C626A3A00771D4C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				72FCCFDA1C626A3A00771D4C /* Anohana! */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		72FCCFD91C626A3A00771D4C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				72FCD0001C6277A300771D4C /* 51hW5VXxDGL._SX500_CR0,0,500,390_.jpg in Resources */,
+				72FCCFEC1C626A3A00771D4C /* LaunchScreen.storyboard in Resources */,
+				72FCCFE91C626A3A00771D4C /* Assets.xcassets in Resources */,
+				72FCCFF61C626EAF00771D4C /* 8424.jpg in Resources */,
+				72FCCFFC1C626EEC00771D4C /* f74562b0.jpg in Resources */,
+				72FCCFFE1C626FDC00771D4C /* 7584408.jpg in Resources */,
+				72FCCFF41C626D8800771D4C /* 1454519642531.jpg in Resources */,
+				72FCCFE41C626A3A00771D4C /* Main.storyboard in Resources */,
+				72FCD0021C62786400771D4C /* images-3.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		72FCCFD71C626A3A00771D4C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				72FCCFE11C626A3A00771D4C /* ViewController.swift in Sources */,
+				72FCCFE71C626A3A00771D4C /* Anohana_.xcdatamodeld in Sources */,
+				72FCCFDF1C626A3A00771D4C /* AppDelegate.swift in Sources */,
+				72FCD0041C62B80B00771D4C /* SubViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		72FCCFE21C626A3A00771D4C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				72FCCFE31C626A3A00771D4C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		72FCCFEA1C626A3A00771D4C /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				72FCCFEB1C626A3A00771D4C /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		72FCCFEE1C626A3A00771D4C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		72FCCFEF1C626A3A00771D4C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		72FCCFF11C626A3A00771D4C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Anohana!/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "isomura.Anohana-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		72FCCFF21C626A3A00771D4C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Anohana!/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "isomura.Anohana-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		72FCCFD61C626A3A00771D4C /* Build configuration list for PBXProject "Anohana!" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				72FCCFEE1C626A3A00771D4C /* Debug */,
+				72FCCFEF1C626A3A00771D4C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		72FCCFF01C626A3A00771D4C /* Build configuration list for PBXNativeTarget "Anohana!" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				72FCCFF11C626A3A00771D4C /* Debug */,
+				72FCCFF21C626A3A00771D4C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		72FCCFE51C626A3A00771D4C /* Anohana_.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				72FCCFE61C626A3A00771D4C /* Anohana_.xcdatamodel */,
+			);
+			currentVersion = 72FCCFE61C626A3A00771D4C /* Anohana_.xcdatamodel */;
+			path = Anohana_.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 72FCCFD31C626A3A00771D4C /* Project object */;
+}
